@@ -33,7 +33,7 @@ This is the main marketing website for the Nexus Software development team. It i
        - The font used is placeholder text
        - Imagery place holder text
 
-- ### Wireframes
+- ## Wireframes
 <details>
 <summary>Click here to view Wireframes</summary>
 <br>
