@@ -3,7 +3,6 @@
 [View the live project here.](Placeholder)
 
 This is the main marketing website for the Nexus Software development team. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential customers. It will include a landing, portfolio and contact page. Our goal is to create an interactive website for a software dev company.
-![Image](Image link)
 
 ## User Experience (UX)
 
