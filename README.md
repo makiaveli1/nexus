@@ -34,12 +34,21 @@ This is the main marketing website for the Nexus Software development team. It i
        - Imagery place holder text
 
 - ### Wireframes
+<details>
+<summary>Click here to view Wireframes</summary>
+<br>
 
-  - Landing Page Wireframe - ![Image](Image link)
+- Desktop Home Page - ![Image](assets/README-images/home-page-desktop.png)
 
-  - Portfolio Page Wireframe - ![Image](Image link)
+- Mobile Home Page - ![Image](assets/README-images/home-page-mobile.png)
 
-  - Contact Us Page Wireframe - ![Image](Image link)
+- Desktop Contact Page - ![Image](assets/README-images/contact-desktop.png)
+
+- MobileContact Page - ![Image](assets/README-images/portfolio-contact-pages-mobile.png)
+
+- Portfolio Page - ![Image](assets/README-images/portfolio-desktop.png)
+
+</details>
 
 ## Technologies Used
 
