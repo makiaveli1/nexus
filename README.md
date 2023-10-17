@@ -9,26 +9,26 @@ This is the main marketing website for the Nexus Software development team. It i
 
 - ### User stories
 
-  - #### First Time Visitor Goals
+- #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to look for portfolios to see examples of work done by the company and devs.
 
-  - #### Returning Visitor Goals
+- #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to find information about hiring or contracting the company.
         2. As a Returning Visitor, I want to find the best way to get in contact with the company with any questions I may have.
         3. As a Returning Visitor, I want to find up to date portfolios and contact information.
 
-  - #### Frequent User Goals
+- #### Frequent User Goals
 
         1. As a Frequent User, I want to check to see if there are any newly added services or developers.
         2. As a Frequent User, I want to check to see if there are any new portfolios added.
         3. As a Frequent User, I want to be kept updated on the companies work availability.
 
 - ### Design
- 
+
        - The two main colours used are black, grey, and white.
        - The font used is placeholder text
        - Imagery place holder text
@@ -115,4 +115,4 @@ This is the main marketing website for the Nexus Software development team. It i
 
 ### Media
 
--   All Images were created by the developers.
+- All Images were created by the developers.
