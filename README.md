@@ -30,8 +30,7 @@ This is the main marketing website for the Nexus Software development team. It i
 - ### Design
 
        - The two main colours used are black, grey, and white.
-       - The font used is placeholder text
-       - Imagery place holder text
+       - The font used is arial
 
 - ## Wireframes
 <details>
