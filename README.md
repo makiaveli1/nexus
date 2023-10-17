@@ -50,6 +50,12 @@ This is the main marketing website for the Nexus Software development team. It i
 
 </details>
 
+## Structure
+
+- Live Portfolio Page - ![Image](assets/README-images/portfolio-page-done.png)
+
+- Live Mobile Page - ![Image](assets/README-images/mobile-done.png)
+
 ## Technologies Used
 
 ### Languages Used
