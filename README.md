@@ -1,39 +1,72 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="center">Nexus Software Development</h1>
 
-Welcome,
+[View the live project here.](Placeholder)
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This is the main marketing website for the Nexus Software development team. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential customers. It will include a landing, portfolio and contact page. Our goal is to create an interactive website for a software dev company.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+![Image](Image link)
 
-## Codeanywhere Reminders
+## User Experience (UX)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+- ### User stories
 
-`python3 -m http.server`
+  - #### First Time Visitor Goals
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        3. As a First Time Visitor, I want to look for portfolios to see examples of work done by the company and devs.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+  - #### Returning Visitor Goals
 
-`http_server`
+        1. As a Returning Visitor, I want to find information about hiring or contracting the company.
+        2. As a Returning Visitor, I want to find the best way to get in contact with the company with any questions I may have.
+        3. As a Returning Visitor, I want to find up to date portfolios and contact information.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+  - #### Frequent User Goals
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+        1. As a Frequent User, I want to check to see if there are any newly added services or developers.
+        2. As a Frequent User, I want to check to see if there are any new portfolios added.
+        3. As a Frequent User, I want to be kept updated on the companies work availability.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- ### Design
+ 
+       - The two main colours used are black, grey, and white.
+       - The font used is placeholder text
+       - Imagery place holder text
 
-To log into the Heroku toolbelt CLI:
+- ### Wireframes
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+  - Landing Page Wireframe - ![Image](Image link)
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+  - Portfolio Page Wireframe - ![Image](Image link)
 
----
+  - Contact Us Page Wireframe - ![Image](Image link)
 
-Happy coding!
+## Technologies Used
+
+### Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the basic layout.
+2. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+3. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the wireframes during the design process.
+
+## Credits
+
+### Content
+
+- All content was written by the developers.
+- [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap template used for basic home page layout.
+
+### Media
+
+-   All Images were created by the developers.
