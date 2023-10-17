@@ -1,3 +1,4 @@
+
 /* Reset */
 * {
   margin: 0;
@@ -102,6 +103,16 @@ main {
   margin-bottom: 1.5rem;
 }
 
+/*Kareem css*/
+
+.album {
+  flex: 1 0 auto;
+  margin-top: 90px;
+}
+
+
+
+
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -176,6 +187,7 @@ main {
   }
 
 
+
   @media (min-width: 365px) and (max-width: 768px) {
 
     body{
@@ -221,3 +233,4 @@ main {
     }
 
   }
+
